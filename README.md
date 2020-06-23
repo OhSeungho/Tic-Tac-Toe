@@ -16,3 +16,5 @@ UCI Machine Learning Repository에서 제공하는 Tic-Tac-Toe Endgame Data Set�
 |tic-tac-toe.csv|x|o|b|true|false|
 |---|---|---|---|---|---|
 |data.csv|-1|1|0|1, 0|0, 1|
+
+입력받은 데이터 세트 학습을 위해 4층의 구조를 가진 Multi-Layer Perceptron을 구성하였습니다. 구성한 MLP 구조는 2개의 은닉층은 relu를, 출력층은 softmax와 sigmoid를 사용하여 구성하였습니다.
