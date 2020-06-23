@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe Keras, TensorFlow(Python 3.7.3, Anaconda3) Programming
+AI Tic-Tac-Toe Keras, TensorFlow(Python 3.7.3, Anaconda3) Programming
 
 Keras, TensorFlow. 이하 두 가지의 API를 활용하여 진행했습니다.
 
